@@ -1,0 +1,24 @@
+{
+  "name": "hex-color-7",
+  "version": "1.0.0",
+  "description": "render randomColor for learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HusniddinJamoliddinov/hex-color-7.git"
+  },
+  "keywords": [
+    "randomColor",
+    "learn-npm",
+    "husniddin"
+  ],
+  "author": "husniddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HusniddinJamoliddinov/hex-color-7/issues"
+  },
+  "homepage": "https://github.com/HusniddinJamoliddinov/hex-color-7#readme"
+}
